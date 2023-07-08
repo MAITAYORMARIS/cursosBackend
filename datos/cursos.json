@@ -1,0 +1,10 @@
+{"cursos":[
+    {
+        "nombre":"nombre del curso",
+    "categoria":"en cual de las 6 categorias se encuentra",
+    "imagen":"imagen referencial para las cartas del home",
+    "fraseCall":"frase llamativa para ver mas informacion, ej. puede ser con este curso aprenderas a....",
+    "duracion":"tiempo en meses",
+    "modalidad":"como sera la cursada"
+    }
+]}
